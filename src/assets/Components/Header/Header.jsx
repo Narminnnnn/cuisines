@@ -35,7 +35,7 @@ const Header = () => {
           </div>
           <div className="contactHrader">
             <span className="book">Book A Table</span>
-            <h3> +91-8010200777</h3>
+            <h3 className="number"> +91-8010200777</h3>
             <p className="monday">Mon - Sun, 8:00AM - 11:00PM</p>
           </div>
         </div>
